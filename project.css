@@ -1,0 +1,391 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    width: 100vw;
+    height: 70px;
+    background-color: whitesmoke;
+    z-index: 1;
+    position: sticky;
+    top: 0px;
+}
+
+.jevelinlogodark {
+    width: 120px;
+    height: 10px;
+    margin-top: 10px;
+    margin-left: 48vw;
+}
+
+.poster {
+    width: 100vw;
+    height: 700px;
+    background-color: rgb(21, 21, 21);
+
+}
+
+.esclipse1 {
+    width: 35px;
+    height: 20px;
+    display: inline-block;
+}
+
+.esclipse2 {
+    width: 40px;
+    height: 20px;
+    margin-top: 0px;
+    display: inline-block;
+}
+
+.esclipse3 {
+    width: 30px;
+    height: 20px;
+    margin-top: 0px;
+    display: inline-block;
+    
+}
+.poster p{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    color: red;
+    margin-left: 0px;
+    margin-top: 0px;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.poster h1{
+    font-size: 100px;
+    color: white;
+    margin-top: 0px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.posterimgburger{
+    width: 450px;
+    height: 450px;
+    margin-top: 70px;
+    position: absolute;
+}
+.poster button{
+    width: 130px;
+    height: 45px;
+    background-color:#fa2c2c;
+    position: absolute;
+    color: white;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-left: 160px;
+    padding-left: 10px;
+    margin-top: 335px;  
+}
+.container1 {
+    width: 100vw;
+    height: 90vh;
+    margin-top: 100px;
+}
+
+.foodphotographer {
+    width: 30vw;
+    height: 75vh;
+    margin-left: 140px;
+    border-radius: 30px;
+    float: left;
+}
+
+.stylecontent {
+    width: 300px;
+    height: 500px;
+    margin-top: 80px;
+    margin-right: 550px;
+    float: right;
+}
+
+.styleaboutus {
+    width: 100px;
+    height: 20px;
+    background-color: black;
+    border-radius: 5px;
+    font-size: 10px;
+    padding-top: 5px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.styleheading1 {
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.stylenewintown {
+    width: 70px;
+    height: 17px;
+    background-color: red;
+    color: white;
+    margin-top: 110px;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-top: 2px;
+    border-radius: 4px;
+
+
+}
+
+.stylespecialoffers {
+    margin-top: 0px;
+    margin-bottom: 110px;
+    margin-left: 450px;
+}
+
+.styledivsand {
+    width: 350px;
+    height: 600px;
+    margin-top: 130px;
+    margin-left: 450px;
+}
+
+.styleham {
+    font-size: 40px;
+    margin: 20px 0px;
+}
+
+.stylelearnmore {
+    padding: 10px 15px;
+    float: right;
+    margin-top: 33px;
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    border-radius: 5px;
+}
+
+.styleburgermaindiv {
+    width: 420px;
+    height: 700px;
+    float: right;
+    margin-top: 130px;
+    margin-right: 300px;
+}
+
+.styleburgerdiv {
+    width: 200px;
+    height: 310px;
+    background-color: rgb(250, 243, 247);
+    border-radius: 5px;
+    float: left;
+    margin-bottom: 15px;
+}
+
+.stylechocodiv {
+    width: 200px;
+    height: 310px;
+    background-color: rgb(250, 243, 247);
+    border-radius: 5px;
+    float: right;
+    margin-bottom: 15px;
+}
+
+.stylebluebery {
+    width: 200px;
+    height: 310px;
+    background-color: rgb(250, 243, 247);
+    border-radius: 5px;
+    float: left;
+}
+
+.stylefries {
+    width: 200px;
+    height: 310px;
+    background-color: rgb(250, 243, 247);
+    border-radius: 5px;
+    float: right;
+}
+
+.styleoffmaindiv {
+    width: 100vw;
+    height: 128vh;
+    background-color: black;
+    margin-top: 130px;
+}
+
+.styleoffmaindiv1 {
+    width: 100vw;
+    height: 64vh;
+}
+
+.styleoffmaindiv2 {
+    width: 100vw;
+    height: 64vh;
+}
+
+.burger1 {
+    width: 500px;
+    height: 360px;
+    margin-top: 90px;
+    float: left;
+}
+
+.stylecontentoffmaindiv1 {
+    width: 300px;
+    height: 250px;
+    float: right;
+    margin-top: 150px;
+    margin-right: 500px;
+}
+
+.stylecontentoffmaindiv2 {
+    width: 300px;
+    height: 250px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 450px;
+}
+
+.burger2 {
+    width: 520px;
+    height: 400px;
+    margin-top: 90px;
+    float: right;
+}
+
+.styletrendingburgers {
+    width: 100vw;
+    height: 60vh;
+}
+
+.trendingburger1 {
+    width: 22vw;
+    height: 51vh;
+    background-color: rgb(250, 243, 247);
+    float: left;
+    border-radius: 8px;
+    margin-top: 25px;
+    margin-left: 65px;
+}
+
+.trendingburger2 {
+    width: 22vw;
+    height: 51vh;
+    background-color: rgb(250, 243, 247);
+    float: left;
+    border-radius: 8px;
+    margin-top: 25px;
+    margin-left: 12px;
+}
+
+.trendingburger3 {
+    width: 22vw;
+    height: 51vh;
+    background-color: rgb(250, 243, 247);
+    float: left;
+    border-radius: 8px;
+    margin-top: 25px; 
+    margin-left: 12px;
+}
+
+.trendingburger4 {
+    width: 22vw;
+    height: 51vh;
+    background-color: rgb(250, 243, 247);
+    float: left;
+    border-radius: 8px;
+    margin-top: 25px; 
+    margin-left: 12px;
+}
+.styletestimonials {
+    width: 130px;
+    height: 20px;
+    background-color: black;
+    border-radius: 5px;
+    font-size: 10px;
+    padding-top: 5px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.styleimg1{
+    width: 20vw;
+    height: 40vh;
+    margin-left: 0px;
+    float: left;
+    margin-right: 80px;
+}
+.styleimg2{
+    width: 20vw;
+    height: 40vh;
+    float: left;
+    margin-right: 80px;
+}
+.styleimg3{
+    width: 20vw;
+    height: 40vh;
+    float: left;
+    margin-right: 80px;
+}
+.styleimg4{
+    width: 20vw;
+    height: 40vh;
+    float: left;
+    margin-right: 60px;
+}
+.box1{
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-top: 140px;
+    margin-left: 350px;
+    margin-right: 100px;
+}
+.box2{
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-top: 140px;
+    margin-left: 0px;
+    margin-right: 100px;
+}
+.box3{
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-top: 140px;
+    margin-left: 0px;
+    margin-right: 100px;
+}
+.box1 ul{
+    list-style: none;
+}
+.box1 ul li img{
+    width: 100px;
+    height: 10px;
+}
+.box2 ul li{
+    list-style-type: none;
+    padding-top: 10px;
+}
+.box3 input{
+    width: 200px;
+    height: 30px;
+    background-color:#e1e1e1;
+    border: none;
+    border-radius: 30px;
+    padding-left: 60px;
+    margin-top: 20px;
+}
+.box3 button{
+    width: 265px;
+    height: 35px;
+    background-color:#fa2c2c;
+    color: white;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 30px;
+    padding-left: 30px;
+    margin-top: 10px;
+}
